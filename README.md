@@ -113,11 +113,6 @@ Logging DNS queries is also useful forensically: it records which domains the ma
 
 The system returned to its pre-infection state with a single reboot: no decryption tool, no backup restore, no ransom payment.
 
-## Video Demonstration
-
-<!-- Option A: drag-and-drop the video into the GitHub README editor (see instructions) -->
-<!-- Option B: link to YouTube -->
-[Watch the demo video](VIDEO_LINK_HERE)
 
 ## Digital Forensics Perspective
 
